@@ -12,10 +12,9 @@ If they do not wish to add one of these, they have the option to click the cance
 
 If they do not choose the minimum criteria, they will get an alert that they have to choose at least one, and it will return to the beginning and they will have to choose again. 
 
-<<<<<<< HEAD
 
-=======
+
 ![pw-gen-ss](https://user-images.githubusercontent.com/74884495/104864918-b6161900-58f7-11eb-9c38-ebfc873b9ad8.PNG)
 
 ![pw-gen-ss2](https://user-images.githubusercontent.com/74884495/104864934-c3330800-58f7-11eb-89b1-d7e215079005.PNG)
->>>>>>> 186b2cd4f467b8b77b326cb4f17e32adda66d1e6
+
