@@ -12,6 +12,5 @@ If they do not wish to add one of these, they have the option to click the cance
 
 If they do not choose the minimum criteria, they will get an alert that they have to choose at least one, and it will return to the beginning and they will have to choose again. 
 
-![Screenshot](assets/images/pw-gen-ss.PNG)
-![Screenshot](assets/images/pw-gen-ss2.PNG)
-
+<img alt="screenshot of password generator" src="./assets/images/pw-gen-ss.PNG">
+<img alt="screenshot of password generator" src="./assets/images/pw-gen-ss2.PNG">
